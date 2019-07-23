@@ -11,8 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".CardPaymentActivity"
-            android:theme="@style/AppTheme.NoActionBar" ></activity>
+        <activity android:name=".CardPaymentActivity"></activity>
         <activity
             android:name=".AddMoneyActivity"
             android:theme="@style/AppTheme.NoActionBar" />
